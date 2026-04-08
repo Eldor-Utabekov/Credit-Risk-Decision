@@ -1,4 +1,10 @@
+
 # 📊 Credit Risk Analytics & Exposure Coverage Dashboard
+
+<img width="400" height="223" alt="image" src="https://github.com/user-attachments/assets/b764a430-b09b-43d7-9d46-a641de246943" />
+<img width="400" height="223" alt="image" src="https://github.com/user-attachments/assets/e2e32954-d2f0-40fd-8f87-f8ab22c42e86" />
+<img width="400" height="223" alt="image" src="https://github.com/user-attachments/assets/dc6547d5-a717-437f-90b2-2b90b3eee819" />
+<img width="400" height="223" alt="image" src="https://github.com/user-attachments/assets/0a2db251-a0ee-4690-ad2c-d042cb9c457f" />
 
 ## Overview
 
